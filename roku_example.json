@@ -17,7 +17,7 @@
 			"shortDescription": "stream description",
 			"title": "My Stream",
 			"content": {
-				"duration": 100,
+				"duration": 1099,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://player.viloud.tv/embed/video/8c36ef675532aec82a216b11f7bc2bb0",
@@ -41,7 +41,7 @@
 			"shortDescription": "My Video description",
 			"title": "My Video",
 			"content": {
-				"duration": 248,
+				"duration": 1187,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://player.viloud.tv/embed/video/c2cb52f82c0e8293615f0b021a917514",
